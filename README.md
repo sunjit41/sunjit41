@@ -5,7 +5,7 @@
 ## 🏅 My GitHub Certifications
 [![GH-500](https://shields.io)](PASTE_YOUR_GH500_URL_HERE)
 [![GH-300](https://shields.io)](PASTE_YOUR_GH300_URL_HERE)
-[![GH-200](https://shields.io)](PASTE_YOUR_GH200_URL_HERE)
+[![GH-200](https://shields.io)](https://learn.microsoft.com/api/credentials/share/en-us/sunjit41/AF2C1ABB7F2DFD60?sharingId=F4C655632BA5D93A)
 
 > *Also certified in: GitHub Foundations (GH-100)*
 
