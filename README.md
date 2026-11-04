@@ -3,7 +3,7 @@
 # Hi there, I'm sunjit41 👋
 
 ## 🏅 My GitHub Certifications
-[![GH-500](https://shields.io)](PASTE_YOUR_GH500_URL_HERE)
+[![GH-500](https://shields.io)](badges\gh-100.webp)
 [![GH-300](https://shields.io)](PASTE_YOUR_GH300_URL_HERE)
 [![GH-200](badges/GH-100.png)
 
