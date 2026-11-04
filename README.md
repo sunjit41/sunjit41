@@ -3,9 +3,11 @@
 # Hi there, I'm sunjit41 👋
 
 ## 🏅 My GitHub Certifications
-[![GH-500](https://shields.io)](badges/gh-100.webp)
-[![GH-300](https://shields.io)](PASTE_YOUR_GH300_URL_HERE)
-[![GH-200](badges/GH-100.png)
+[![GH-100](badges/gh-100.webp)](https://shields.io)
+[![GH-200](badges/gh-200.webp)](https://shields.io)
+[![GH-300](badges/gh-300.webp)](https://shields.io)
+[![GH-500](badges/gh-500.webp)](https://shields.io)
+[![GH-900](badges/gh-900.webp)](https://shields.io)
 
 > *Also certified in: GitHub Foundations (GH-100)*
 
