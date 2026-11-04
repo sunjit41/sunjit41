@@ -3,15 +3,18 @@
 # Hi there, I'm sunjit41 👋
 
 ## 🏅 My GitHub Certifications
-[![GH-100](badges/gh-100.webp)](https://shields.io)
-[![GH-200](badges/gh-200.webp)](https://shields.io)
-[![GH-300](badges/gh-300.webp)](https://shields.io)
-[![GH-500](badges/gh-500.webp)](https://shields.io)
-[![GH-900](badges/gh-900.webp)](https://shields.io)
-
-> *Also certified in: GitHub Foundations (GH-100)*
+[![GH-100](badges/gh-100.webp)]
+[![GH-200](badges/gh-200.webp)]
+[![GH-300](badges/gh-300.webp)]
+[![GH-500](badges/gh-500.webp)]
+[![GH-900](badges/gh-900.webp)]
 
 ---
+
+## 🏅 My Microsoft Certifications
+[![GH-200](badges/ab-100.webp)]
+[![GH-100](badges/ai-103.webp)]
+
 
 ### 🛠️ Core Stack & Tools
 - **Automation / CI/CD:** GitHub Actions 
