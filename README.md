@@ -13,7 +13,7 @@
 ## 🏅 My Microsoft Certifications
 ![AB-100](badges/ab-100.webp)
 ![AI-103](badges/ai-103.webp)
-![AI-901](badges/ai-103.webp)
+![AI-901](badges/ai-901.webp)
 ![AZ-900](badges/az-900.webp)
 ![DP-900](badges/dp-900.webp)
 ![SC-900](badges/sc-900.webp)
