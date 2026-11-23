@@ -6,6 +6,7 @@
 ![GH-200](badges/gh-200.webp)
 ![GH-300](badges/gh-300.webp)
 ![GH-500](badges/gh-500.webp)
+![GH-600](badges/gh-600.webp)
 ![GH-900](badges/gh-900.webp)
 
 ---
